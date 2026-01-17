@@ -27,6 +27,9 @@ It is designed from a **business decision-making perspective**, making complex d
 - Interactive slicers for deep-dive analysis
 
 ---
+![Mobile Sales Dashboard](ss_mobile.png)
+
+---
 
 ## ▶️ How to Open the `.pbix` File
 1. Download **Microsoft Power BI Desktop** (Windows)
